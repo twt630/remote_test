@@ -2,3 +2,4 @@ sin
 cos
 cox
 tan
+sec
